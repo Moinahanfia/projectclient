@@ -1,0 +1,17 @@
+body{margin: 0px;
+    padding: 0px;}
+    
+    .container{
+      display: grid;
+    
+    }
+    
+   
+    
+    main { background-size: cover; position: relative; overflow: hidden;background-image: url("img/paysage.png"); }
+    
+    
+    
+    input{margin: 20px; }
+    
+    
